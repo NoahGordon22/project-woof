@@ -1,1 +1,42 @@
-hey
+*{
+	box-sizing: border-box;
+	align-content: center;
+}
+body{
+	background-color: yellow;
+	text-align: center;
+}
+div.top{
+	background-color: #F4BA00;
+	text-align: center;
+	padding: 2%;
+	margin:1%;
+}
+p.header{
+	margin-left: 30%;
+	margin-right: 30%;
+}
+img.index{
+	margin: 0 auto;
+}
+img.index2{
+	margin: 0 auto;
+}
+div.middle{
+	background-color: #F4BA00;
+	text-align: center;
+	padding: 2%;
+	padding-left: 30%;
+	padding-right: 30%;
+	margin: 1%;
+}
+p.first{
+	text-align: center;
+	color: red;
+}
+footer{
+	background-color: #F4BA00;
+	text-align: center;
+	padding: 2%;
+	margin:1%;
+}
